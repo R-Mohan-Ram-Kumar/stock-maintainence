@@ -1,2 +1,4 @@
 "# Medical-Stock-maintenance-System" 
-"# stock-maintainence" 
+
+visit -  https://spectramed.onrender.com/
+for more information about this project
